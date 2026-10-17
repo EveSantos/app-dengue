@@ -1,0 +1,7 @@
+__pycache__/
+
+# Large generated datasets exceed GitHub's 100 MB file limit.
+/final/dengue_6cidades_limpo_tratado.csv
+/final/dengue_6cidades_norm_enriquecido.csv
+/final/dengue_total_brasil.csv
+/final/df_deng_total_ba.csv
